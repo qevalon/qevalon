@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=qevalon&theme=dark&border_radius=20)](https://git.io/streak-stats)
 
+[![Valon's GitHub stats](https://github-readme-stats.vercel.app/api?username=qevalon&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinsadeghpour&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **qevalon/qevalon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
